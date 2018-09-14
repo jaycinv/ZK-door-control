@@ -24,3 +24,9 @@ Interop.zkemkeeper
 System.ComponentModel
 System.Reflection.Extensions
 netstandard
+FastAndroidCamera
+ZXing.Net.Mobile.Core
+zxing.portable
+ZXingNetMobile
+ZXing.Net.Mobile.Forms.Android
+ZXing.Net.Mobile.Forms

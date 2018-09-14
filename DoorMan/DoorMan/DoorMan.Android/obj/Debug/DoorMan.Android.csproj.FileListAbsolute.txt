@@ -69,6 +69,7 @@ C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.And
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\DoorMan.Android.dll.mdb
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\Views\ScanPage.xaml.g.cs
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\bin\Debug\DoorMan.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb

@@ -4,6 +4,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.CAMERA" />
   <application android:label="DoorMan.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="DoorMan" android:theme="@style/MainTheme" android:name="md5891a60b39b8d4617b1e9db2d23c42b11.MainActivity">
       <intent-filter>
@@ -12,6 +13,7 @@
       </intent-filter>
     </activity>
     <receiver android:enabled="true" android:exported="false" android:name="md5b60ffeb829f638581ab2bb9b1a7f4f3f.PowerSaveModeBroadcastReceiver" />
+    <activity android:configChanges="keyboardHidden|orientation|screenLayout" android:label="Scanner" android:name="md54ac47efa3340b2f00c939eadd8c37639.ZxingActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.DoorMan.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
