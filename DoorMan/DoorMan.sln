@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorMan.Android", "DoorMan\DoorMan.Android\DoorMan.Android.csproj", "{D661B6AA-1514-449B-B377-D78FBE716363}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "DoorMan", "DoorMan\DoorMan\DoorMan.shproj", "{FF4B6F2C-EE38-44D9-9E8B-4F425692CF9D}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		DoorMan\DoorMan\DoorMan.projitems*{d661b6aa-1514-449b-b377-d78fbe716363}*SharedItemsImports = 4
+		DoorMan\DoorMan\DoorMan.projitems*{ff4b6f2c-ee38-44d9-9e8b-4f425692cf9d}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D661B6AA-1514-449B-B377-D78FBE716363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D661B6AA-1514-449B-B377-D78FBE716363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D661B6AA-1514-449B-B377-D78FBE716363}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D661B6AA-1514-449B-B377-D78FBE716363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D661B6AA-1514-449B-B377-D78FBE716363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D661B6AA-1514-449B-B377-D78FBE716363}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB15EA0-04C2-4291-9721-0C7B74BB2337}
+	EndGlobalSection
+EndGlobal
