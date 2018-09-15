@@ -15,7 +15,7 @@ namespace DoorMan.Views {
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\s210140534\\Documents\\GitHub\\ZK-door-control\\DoorMan\\DoorMan\\DoorMan\\View" +
         "s\\MainPage.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.TabbedPage {
+    public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {

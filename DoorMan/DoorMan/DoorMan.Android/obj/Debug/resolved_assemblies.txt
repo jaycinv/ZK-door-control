@@ -29,6 +29,7 @@ C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.And
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\zxing.monoandroid.dll
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\ZXing.Net.Mobile.Core.dll
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\ZXing.Net.Mobile.Forms.Android.dll
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\ZXing.Net.Mobile.Forms.dll

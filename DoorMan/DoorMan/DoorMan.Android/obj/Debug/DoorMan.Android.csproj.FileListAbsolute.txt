@@ -69,10 +69,11 @@ C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.And
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\DoorMan.Android.dll.mdb
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\Views\ScanPage.xaml.g.cs
-C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\bin\Debug\DoorMan.Android.dll
+C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\bin\Debug\zxing.monoandroid.dll.mdb
+C:\Users\s210140534\Documents\GitHub\ZK-door-control\DoorMan\DoorMan\DoorMan.Android\obj\Debug\android\assets\zxing.monoandroid.dll.mdb
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\zxing.monoandroid.dll.mdb
 bin\Debug\Mono.Android.pdb
 bin\Debug\mscorlib.pdb
 bin\Debug\System.Core.pdb
@@ -96,6 +97,7 @@ bin\Debug\System.Web.Services.pdb
 obj\Debug\linksrc\DoorMan.Android.dll.mdb
 obj\Debug\linksrc\FormsViewGroup.dll.mdb
 obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\zxing.monoandroid.dll.mdb
 obj\Debug\linksrc\Mono.Android.pdb
 obj\Debug\linksrc\mscorlib.pdb
 obj\Debug\linksrc\System.Core.pdb
